@@ -19,6 +19,8 @@ const vf=[{s:'width: 100%; height: 100%;',label:'1:1'}
 ,{s:'width: 75%; height: 100%;',label:'3:4'}
 ,{s:'width: 100%; height: 50%;',label:'16:9'}
 ,{s:'width: 50%; height: 100%;',label:'9:16'}
+,{s:'width: 50%; height: 100%;',label:'2:1'}
+,{s:'width: 50%; height: 100%;',label:'1:2'}
  ];
 
 const f=ref({bili:-1, quality:'',view:'',light:'',shot:'',style:'', styles:'',version:'--v 6.0',sref:'',cref:'',cw:'',});
